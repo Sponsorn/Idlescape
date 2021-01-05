@@ -1,0 +1,31 @@
+/* changes monsters name */
+.combat-monster-area p {
+        text-shadow: 2px 2px 5px #424242;
+}
+
+/* changes monsters health bar */
+.combat-monster-area progress {
+        z-index:10 !important;
+        opacity:0.9 !important;
+        border-radius:3px !important; /* makes health bar get rounded corners */
+        overflow:hidden; /* needed to make health bar overflow get hidden behind rounded corners */
+    }
+
+/* changes players health number*/
+.combat-player-area .combat-health {
+        z-index:10 !important;
+        text-shadow: 2px 2px 5px #424242;
+    }
+
+/* changes players health bar */
+.combat-player-area progress {
+        z-index:10 !important;
+        opacity:0.95 !important;
+        border-radius:3px !important; /* makes health bar get rounded corners */
+        overflow:hidden; /* needed to make health bar overflow get hidden behind rounded corners */
+    }
+
+/* moves run away button to front for smaller screens */
+.combat-run-away {
+        z-index:100 !important;
+}
