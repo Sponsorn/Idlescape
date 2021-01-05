@@ -1,31 +1,55 @@
-/* changes monsters name */
+/* combat-area changes */
+.combat-fight {
+    height:520px;
+    width:860px;
+    grid-template-columns: 250px 200px 630px;
+}
+
+/* changes monsters name/health text */
 .combat-monster-area p {
-        text-shadow: 2px 2px 5px #424242;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
 /* changes monsters health bar */
 .combat-monster-area progress {
-        z-index:10 !important;
-        opacity:0.9 !important;
-        border-radius:3px !important; /* makes health bar get rounded corners */
-        overflow:hidden; /* needed to make health bar overflow get hidden behind rounded corners */
-    }
+    z-index: 10 !important;
+    opacity: 0.9 !important;
+    border-radius: 3px !important;
+    /* makes health bar get rounded corners */
+    overflow: hidden;
+    /* needed to make health bar overflow get hidden behind rounded corners */
+    margin: 0 0 15px 0;    
+}
 
 /* changes players health number*/
 .combat-player-area .combat-health {
-        z-index:10 !important;
-        text-shadow: 2px 2px 5px #424242;
-    }
+    z-index: 10 !important;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
 
 /* changes players health bar */
 .combat-player-area progress {
-        z-index:10 !important;
-        opacity:0.95 !important;
-        border-radius:3px !important; /* makes health bar get rounded corners */
-        overflow:hidden; /* needed to make health bar overflow get hidden behind rounded corners */
-    }
+    z-index: 10 !important;
+    opacity: 0.95 !important;
+    border-radius: 3px !important;
+    /* makes health bar get rounded corners */
+    overflow: hidden;
+    /* needed to make health bar overflow get hidden behind rounded corners */
+}
 
 /* moves run away button to front for smaller screens */
 .combat-run-away {
-        z-index:100 !important;
+    z-index: 1 !important;
+    border-radius: 3px;
+}
+/* moves run away button to other side to compensate for z-index not working properly with tooltips */
+.button-group {
+    left: 250px;
+    right: 0;
+    text-align:left;
+}
+
+/* Chat formatting */
+.message-time-stamp {
+    letter-spacing: -0.5px;
 }
