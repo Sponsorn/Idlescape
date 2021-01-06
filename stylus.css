@@ -5,6 +5,10 @@
     grid-template-columns: 250px 200px 630px;
 }
 
+.core-container-combat {
+    height: auto; /*increases usable space inside the combat zone area */
+}
+
 /* changes monsters name/health text */
 .combat-monster-area p {
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
