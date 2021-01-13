@@ -61,7 +61,7 @@
 </table>
 </div>
 |}}
-{{#if: {{{def-stab|{{{def-slash|{{{def-crush|{{{def-magic|{{{def-range|}}}}}}}}}}}}}}}|
+{{#if: {{{def-stats|}}}|
 <div class="infobox-title">Defensive Stats</div>
 <div class="infobox-stats">
 <table class="fullWidth-table">
@@ -144,31 +144,72 @@
 |}}
 <noinclude>
 ====Usage====
- <nowiki>{{Infobox Item</nowiki>
+ <nowiki>{{Infobox Equipment</nowiki>
  |title = Automatic pagename, only use this if custom name is needed
  |image = URL
  |gold = vendor sell price
  |level-req = level required to use item
  |source = Source of item
- |aug-bonus = 
- |aug-slots = 
- |hp =
- |source =
- |level-req =
- |stab =
- |slash =
- |crush =
- |accuracy =
- |strength =
- |speed =
- |attacktype =
- |slot = 
- |non-combat-name =
- |non-combat-stat =
- |plot-size =
- |seed-exp =
- |harvest-time =
- |yield =
+ |slot = Helmet/Shield etc
+ |aug-slots = Amount of aug slots
+ |atk-type = only needed for weapons or if armor gives attack bonus
+  |atk-stab = Requires atk-type - stab stats
+  |atk-slash = Requires atk-type - slash stats
+  |atk-crush = Requires atk-type - crush stats
+  |atk-magic = Requires atk-type - magic stats
+  |atk-range = Requires atk-type - range stats
+ |def-stats = only needed for weapons or if armor gives defensive bonus, this field is never shown
+  |def-stab = Requires def-stats - stab stats
+  |def-slash = Requires def-stats - slash stats
+  |def-crush = Requires def-stats - crush stats
+  |def-magic = Requires def-stats - magic stats
+  |def-range = Requires def-stats - range stats
+ |acc = Only shown if either acc or melee-str has a input - accuracy bonus
+ |melee-str = Only shown if either acc or melee-str has a input - melee strength bonus
+ |aug-stab = stab aug bonus
+ |aug-slash = slash aug bonus
+ |aug-crush = crush aug bonus
+ |aug-magic = magic aug bonus
+ |aug-range = range aug bonus
+ |aug-acc = Only shown if either aug-acc or aug-melee-str has a input - accuracy aug bonus
+ |aug-melee-str = Only shown if either aug-acc or aug-melee-str has a input - melee strength aug bonus
+ |aug-cost = augument material cost
  <nowiki>}}</nowiki>
-</noinclude>
 
+Copy pasta code:
+
+<pre>
+{{Infobox Equipment
+|title = 
+|image = 
+|gold = 
+|level-req = 
+|source = 
+|slot = 
+|aug-slots = 
+|atk-type = 
+|atk-stab = 
+|atk-slash = 
+|atk-crush = 
+|atk-magic = 
+|atk-range = 
+|def-stats = 
+|def-stab = 
+|def-slash = 
+|def-crush = 
+|def-magic = 
+|def-range = 
+|acc = 
+|melee-str = 
+|aug-stab = 
+|aug-slash = 
+|aug-crush = 
+|aug-magic = 
+|aug-range = 
+|aug-acc = 
+|aug-melee-str = 
+|aug-cost = 
+}}
+</pre>
+
+</noinclude>
