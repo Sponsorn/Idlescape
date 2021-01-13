@@ -1,7 +1,7 @@
 <div class="infobox">
 <div class="infobox-header">{{{title|{{PAGENAME}}}}}</div>
 <div class="infobox-image"><img src="{{{image}}}" height="auto" width="150"></div>
-<table style="padding: 1em;">
+<table style="padding: 1em; margin: auto;">
 {{#if: {{{gold|}}}|
 <tr>
     <th colspan="10"><img src="https://idlescape.com/images/gold_coin.png" alt="Gold Coin" height="16" width="16"></th>
@@ -25,11 +25,14 @@
     <th colspan="10">Slot</th>
     <td colspan="20">{{{slot}}}</td>
 </tr>
-
-
-{{#if: {{{atk-Type|}}}|
+{{#if: {{{aug-slots|}}}|
 <tr>
-    <th colspan="10">Atk Type</th>
+    <th colspan="10">Augument Slots</th>
+    <td colspan="20">{{{aug-slots}}}</td>
+</tr>
+{{#if: {{{atk-type|}}}|
+<tr>
+    <th colspan="10">Attack Type</th>
     <td colspan="20">{{{atk-type}}}</td>
 </tr>
 |}}
