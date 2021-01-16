@@ -1,0 +1,17 @@
+// ==UserScript==
+// @name         IS Animation Deanimator
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  try to take over the world!
+// @author       Holychikenz, Sponsorn
+// @match        https://idlescape.com/game
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    setInterval(()=>{
+        document.querySelectorAll(".combat-fight-attack-speed").forEach(e=>e.parentNode.removeChild(e));
+        document.querySelectorAll(".MuiLinearProgress-root").forEach(e=>e.parentNode.removeChild(e));
+        document.querySelectorAll(".scrolling-text").forEach(e=>e.parentNode.removeChild(e));
+    }, 1000)
+})();
