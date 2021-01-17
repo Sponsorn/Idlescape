@@ -1,3 +1,12 @@
+/* Install:
+1. Download Stylus extension
+2. Open up Stylus in your browser
+3. Click "Write New Style"
+4. Copy and paste this code into the codeeditor and press "Overwrite"
+5. Enter a name and click save, idlescape.com sometimes need a reload for it to work the first time
+*/
+
+@-moz-document url("https://idlescape.com/game") {
 /* Theme default changes */
 .theme-default {
     /* This darkens the black and white background */
@@ -58,7 +67,7 @@
     border-radius: 3px;
 }
 
-/* moves run away button to other side to compensate for z-index not working properly with hovercards */
+/* moves run away button to other side to compensate for z-index not working properly with tooltips */
 .button-group {
     left: 250px;
     right: 0;
@@ -75,6 +84,7 @@
     box-shadow: 0 0 5px 0 red;
 }
 
+
 /* Marketplace formatting */
 .marketplace-item-name {
     /* Increases font-size by 1px */
@@ -88,4 +98,5 @@
 #lowest-price {
     /* increases font size of "current lowest price" in sell pop up */
     font-size: 12px;
+}
 }
