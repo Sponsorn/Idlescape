@@ -75,8 +75,16 @@
     box-shadow: 0 0 5px 0 red;
 }
 
-
 /* Marketplace formatting */
+.marketplace-item-name {
+    /* Increases font-size by 1px */
+    font-size: 15px;
+}
+.enchanted-text {
+    /* Changes color on enchanted item text */
+    color: #f5593d;
+}
+
 #lowest-price {
     /* increases font size of "current lowest price" in sell pop up */
     font-size: 12px;
