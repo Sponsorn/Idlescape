@@ -35,3 +35,10 @@
     text-align: center;
     vertical-align: middle;
   }
+  
+  .lootTable .lt-bottom-row {
+    background-color: #efefef;
+    border-color: #9b9b9b;
+    text-align: center;
+    vertical-align: middle;
+  }
