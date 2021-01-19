@@ -1,22 +1,18 @@
   .lootTable {
     border-collapse: collapse;
     border-spacing: 0;
+    font-size: 100%;
   }
 
   .lootTable td {
-    border-color: #9b9b9b;
-    border-style: solid;
-    border-width: 1px;
-    font-size: 100%;
+    border: 1px solid #9b9b9b;
     overflow: hidden;
     padding: 5px 5px;
     word-break: normal;
   }
 
   .lootTable th {
-    border-style: solid;
-    border-width: 1px;
-    font-size: 100%;
+    border-style: 1px solid;
     font-weight: normal;
     overflow: hidden;
     padding: 8px 5px;
@@ -35,7 +31,7 @@
     text-align: center;
     vertical-align: middle;
   }
-  
+
   .lootTable .lt-bottom-row {
     background-color: #efefef;
     border-color: #9b9b9b;
