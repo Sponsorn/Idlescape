@@ -1,0 +1,1950 @@
+{
+  "Gold": {
+    "img": "/images/money_icon.png",
+    "class": "gold"
+  },
+  "Heat": {
+    "img": "/images/heat_icon.png",
+    "class": "heat"
+  },
+  "Air Essence": {
+    "img": "/images/runecrafting/air_essence.png",
+    "class": "rune"
+  },
+  "Earth Essence": {
+    "img": "/images/runecrafting/earth_essence.png",
+    "class": "rune"
+  },
+  "Fire Essence": {
+    "img": "/images/runecrafting/fire_essence.png",
+    "class": "rune"
+  },
+  "Water Essence": {
+    "img": "/images/runecrafting/water_essence.png",
+    "class": "rune"
+  },
+  "Blood Essence": {
+    "img": "/images/runecrafting/blood_essence.png",
+    "class": "rune"
+  },
+  "Death Essence": {
+    "img": "/images/runecrafting/death_essence.png",
+    "class": "rune"
+  },
+  "Chaos Essence": {
+    "img": "/images/runecrafting/chaos_essence.png",
+    "class": "rune"
+  },
+  "Nature Essence": {
+    "img": "/images/runecrafting/nature_essence.png",
+    "class": "rune"
+  },
+  "Mind Essence": {
+    "img": "/images/runecrafting/mind_essence.png",
+    "class": "rune"
+  },
+  "Cosmic Essence": {
+    "img": "/images/runecrafting/cosmic_essence.png",
+    "class": "rune"
+  },
+  "Book": {
+    "img": "/images/misc/book.png",
+    "class": "gem",
+    "value": 500,
+    "heat": 50
+  },
+  "Raw Shrimp": {
+    "img": "/images/fishing/raw_shrimp.png",
+    "class": "fish",
+    "value": 5
+  },
+  "Raw Anchovy": {
+    "img": "/images/fishing/raw_anchovy.png",
+    "class": "fish",
+    "value": 15
+  },
+  "Raw Trout": {
+    "img": "/images/fishing/raw_trout.png",
+    "class": "fish",
+    "value": 25
+  },
+  "Raw Salmon": {
+    "img": "/images/fishing/raw_salmon.png",
+    "class": "fish",
+    "value": 50
+  },
+  "Raw Lobster": {
+    "img": "/images/fishing/raw_lobster.png",
+    "class": "fish",
+    "value": 75
+  },
+  "Raw Tuna": {
+    "img": "/images/fishing/raw_tuna.png",
+    "class": "fish",
+    "value": 100
+  },
+  "Raw Shark": {
+    "img": "/images/fishing/raw_shark.png",
+    "class": "fish",
+    "value": 125
+  },
+  "Burnt Fish": {
+    "img": "/images/cooking/burnt_fish.png",
+    "class": "cookedFish",
+    "value": 1
+  },
+  "Burnt Food": {
+    "img": "/images/cooking/burnt_food.png",
+    "class": "cookedFish",
+    "value": 1
+  },
+  "Copper Ore": {
+    "img": "/images/mining/copper_ore.png",
+    "class": "ore",
+    "value": 5
+  },
+  "Tin Ore": {
+    "img": "/images/mining/tin_ore.png",
+    "class": "ore",
+    "value": 5
+  },
+  "Iron Ore": {
+    "img": "/images/mining/iron_ore.png",
+    "class": "ore",
+    "value": 20
+  },
+  "Gold Ore": {
+    "img": "/images/mining/gold_ore.png",
+    "class": "ore",
+    "value": 100
+  },
+  "Mithril Ore": {
+    "img": "/images/mining/mithril_ore.png",
+    "class": "ore",
+    "value": 75
+  },
+  "Adamantite Ore": {
+    "img": "/images/mining/adamantite_ore.png",
+    "class": "ore",
+    "value": 100
+  },
+  "Runite Ore": {
+    "img": "/images/mining/runite_ore.png",
+    "class": "ore",
+    "value": 200
+  },
+  "Clay": {
+    "img": "/images/mining/clay.png",
+    "class": "ore",
+    "value": 1
+  },
+  "Stone": {
+    "img": "/images/mining/stone.png",
+    "class": "ore",
+    "value": 1
+  },
+  "Sand": {
+    "img": "/images/mining/sand.png",
+    "class": "ore",
+    "value": 1
+  },
+  "Silver": {
+    "img": "/images/mining/silver.png",
+    "class": "ore",
+    "value": 100
+  },
+  "Coal": {
+    "img": "/images/mining/coal.png",
+    "class": "ore",
+    "value": 20,
+    "heat": 10
+  },
+  "Rune Slate": {
+    "img": "/images/runecrafting/rune_slate.png",
+    "class": "ore",
+    "value": 15
+  },
+  "Stygian Ore": {
+    "img": "/images/mining/stygian_ore.png",
+    "class": "ore",
+    "value": 500
+  },
+  "Fertilizer": {
+    "img": "/images/farming/fertilizer.png",
+    "class": "seed",
+    "value": 100
+  },
+  "Carrot Seed": {
+    "img": "/images/farming/carrot_seed.png",
+    "class": "seed",
+    "value": 5
+  },
+  "Peppercorn Seed": {
+    "img": "/images/farming/peppercorn_seed.png",
+    "class": "seed",
+    "value": 5
+  },
+  "Sugarcane Seed": {
+    "img": "/images/farming/sugarcane_seed.png",
+    "class": "seed",
+    "value": 5
+  },
+  "Wheat Seed": {
+    "img": "/images/farming/wheat_seed.png",
+    "class": "seed",
+    "value": 5
+  },
+  "Potato Seed": {
+    "img": "/images/farming/potato_seed.png",
+    "class": "seed",
+    "value": 5
+  },
+  "Rice Seed": {
+    "img": "/images/farming/rice_seed.png",
+    "class": "seed",
+    "value": 5
+  },
+  "Tomato Seed": {
+    "img": "/images/farming/tomato_seed.png",
+    "class": "seed",
+    "value": 5
+  },
+  "Wildberry Bush Seed": {
+    "img": "/images/farming/wildberry_bush_seed.png",
+    "class": "seed",
+    "value": 5
+  },
+  "Chili Pepper Seed": {
+    "img": "/images/farming/chili_pepper_seed.png",
+    "class": "seed",
+    "value": 5
+  },
+  "Pumpkin Seed": {
+    "img": "/images/farming/pumpkin_seed.png",
+    "class": "seed",
+    "value": 5
+  },
+  "Mushroom Spore": {
+    "img": "/images/farming/mushroom_spore.png",
+    "class": "seed",
+    "value": 5
+  },
+  "Tree Seed": {
+    "img": "/images/farming/tree_seed.png",
+    "class": "seed",
+    "value": 5
+  },
+  "Oak Tree Seed": {
+    "img": "/images/farming/oak_tree_seed.png",
+    "class": "seed",
+    "value": 5
+  },
+  "Willow Tree Seed": {
+    "img": "/images/farming/willow_tree_seed.png",
+    "class": "seed",
+    "value": 5
+  },
+  "Maple Tree Seed": {
+    "img": "/images/farming/maple_tree_seed.png",
+    "class": "seed",
+    "value": 5
+  },
+  "Yew Tree Seed": {
+    "img": "/images/farming/yew_tree_seed.png",
+    "class": "seed",
+    "value": 5
+  },
+  "Banana Tree Seed": {
+    "img": "/images/farming/banana_tree_seed.png",
+    "class": "seed",
+    "value": 5
+  },
+  "Apple Tree Seed": {
+    "img": "/images/farming/apple_tree_seed.png",
+    "class": "seed",
+    "value": 5
+  },
+  "Elder Tree Seed": {
+    "img": "/images/farming/elder_tree_seed.png",
+    "class": "seed",
+    "value": 100
+  },
+  "Sageberry Bush Seed": {
+    "img": "/images/farming/sageberry_seed.png",
+    "class": "seed",
+    "value": 5
+  },
+  "Mysterious Seed": {
+    "img": "/images/farming/mysterious_seed.png",
+    "class": "seed",
+    "value": 7
+  },
+  "Bronze Bar": {
+    "img": "/images/smithing/bronze_bar.png",
+    "class": "bar",
+    "value": 25
+  },
+  "Iron Bar": {
+    "img": "/images/smithing/iron_bar.png",
+    "class": "bar",
+    "value": 100
+  },
+  "Gold Bar": {
+    "img": "/images/smithing/gold_bar.png",
+    "class": "bar",
+    "value": 1500
+  },
+  "Mithril Bar": {
+    "img": "/images/smithing/mithril_bar.png",
+    "class": "bar",
+    "value": 500
+  },
+  "Adamantite Bar": {
+    "img": "/images/smithing/adamantite_bar.png",
+    "class": "bar",
+    "value": 3000
+  },
+  "Runite Bar": {
+    "img": "/images/smithing/runite_bar.png",
+    "class": "bar",
+    "value": 9000
+  },
+  "Stygian Bar": {
+    "img": "/images/smithing/stygian_bar.png",
+    "class": "bar",
+    "value": 12000
+  },
+  "Branch": {
+    "img": "/images/foraging/branch.png",
+    "class": "log",
+    "value": 1,
+    "heat": 1
+  },
+  "Log": {
+    "img": "/images/foraging/log.png",
+    "class": "log",
+    "value": 3,
+    "heat": 5
+  },
+  "Oak Log": {
+    "img": "/images/foraging/oak_log.png",
+    "class": "log",
+    "value": 10,
+    "heat": 10
+  },
+  "Willow Log": {
+    "img": "/images/foraging/willow_log.png",
+    "class": "log",
+    "value": 20,
+    "heat": 20
+  },
+  "Maple Log": {
+    "img": "/images/foraging/maple_log.png",
+    "class": "log",
+    "value": 40,
+    "heat": 70
+  },
+  "Yew Log": {
+    "img": "/images/foraging/yew_log.png",
+    "class": "log",
+    "value": 100,
+    "heat": 200
+  },
+  "Sapphire": {
+    "img": "/images/mining/sapphire.png",
+    "class": "gem",
+    "value": 1000
+  },
+  "Emerald": {
+    "img": "/images/mining/emerald.png",
+    "class": "gem",
+    "value": 2000
+  },
+  "Ruby": {
+    "img": "/images/mining/ruby.png",
+    "class": "gem",
+    "value": 5000
+  },
+  "Diamond": {
+    "img": "/images/mining/diamond.png",
+    "class": "gem",
+    "value": 10000
+  },
+  "Black Opal": {
+    "img": "/images/mining/black_opal.png",
+    "class": "gem",
+    "value": 50000
+  },
+  "Air Talisman": {
+    "img": "/images/runecrafting/air_talisman.png",
+    "class": "rune"
+  },
+  "Earth Talisman": {
+    "img": "/images/runecrafting/earth_talisman.png",
+    "class": "rune"
+  },
+  "Fire Talisman": {
+    "img": "/images/runecrafting/fire_talisman.png",
+    "class": "rune"
+  },
+  "Water Talisman": {
+    "img": "/images/runecrafting/water_talisman.png",
+    "class": "rune"
+  },
+  "Blood Talisman": {
+    "img": "/images/runecrafting/blood_talisman.png",
+    "class": "rune"
+  },
+  "Death Talisman": {
+    "img": "/images/runecrafting/death_talisman.png",
+    "class": "rune"
+  },
+  "Chaos Talisman": {
+    "img": "/images/runecrafting/chaos_talisman.png",
+    "class": "rune"
+  },
+  "Nature Talisman": {
+    "img": "/images/runecrafting/nature_talisman.png",
+    "class": "rune"
+  },
+  "Mind Talisman": {
+    "img": "/images/runecrafting/mind_talisman.png",
+    "class": "rune"
+  },
+  "Cosmic Talisman": {
+    "img": "/images/runecrafting/cosmic_talisman.png",
+    "class": "rune"
+  },
+  "Air Rune": {
+    "img": "/images/runecrafting/air_rune.png",
+    "class": "rune",
+    "value": 10
+  },
+  "Earth Rune": {
+    "img": "/images/runecrafting/earth_rune.png",
+    "class": "rune",
+    "value": 10
+  },
+  "Fire Rune": {
+    "img": "/images/runecrafting/fire_rune.png",
+    "class": "rune",
+    "value": 10
+  },
+  "Water Rune": {
+    "img": "/images/runecrafting/water_rune.png",
+    "class": "rune",
+    "value": 10
+  },
+  "Blood Rune": {
+    "img": "/images/runecrafting/blood_rune.png",
+    "class": "rune",
+    "value": 10
+  },
+  "Death Rune": {
+    "img": "/images/runecrafting/death_rune.png",
+    "class": "rune",
+    "value": 10
+  },
+  "Chaos Rune": {
+    "img": "/images/runecrafting/chaos_rune.png",
+    "class": "rune",
+    "value": 10
+  },
+  "Nature Rune": {
+    "img": "/images/runecrafting/nature_rune.png",
+    "class": "rune",
+    "value": 10
+  },
+  "Mind Rune": {
+    "img": "/images/runecrafting/mind_rune.png",
+    "class": "rune",
+    "value": 10
+  },
+  "Cosmic Rune": {
+    "img": "/images/runecrafting/cosmic_rune.png",
+    "class": "rune",
+    "value": 10
+  },
+  "Bronze Pickaxe": {
+    "img": "/images/mining/bronze_pickaxe.png",
+    "class": "equipment",
+    "value": 800
+  },
+  "Iron Pickaxe": {
+    "img": "/images/mining/iron_pickaxe.png",
+    "class": "equipment",
+    "value": 6000
+  },
+  "Mithril Pickaxe": {
+    "img": "/images/mining/mithril_pickaxe.png",
+    "class": "equipment",
+    "value": 52000
+  },
+  "Adamantite Pickaxe": {
+    "img": "/images/mining/adamantite_pickaxe.png",
+    "class": "equipment",
+    "value": 480000
+  },
+  "Runite Pickaxe": {
+    "img": "/images/mining/rune_pickaxe.png",
+    "class": "equipment",
+    "value": 1944000
+  },
+  "Stygian Pickaxe": {
+    "img": "/images/mining/stygian_pickaxe.png",
+    "class": "equipment",
+    "value": 3360000
+  },
+  "Bronze Hatchet": {
+    "img": "/images/foraging/bronze_hatchet.png",
+    "class": "equipment",
+    "value": 800
+  },
+  "Iron Hatchet": {
+    "img": "/images/foraging/iron_hatchet.png",
+    "class": "equipment",
+    "value": 6000
+  },
+  "Mithril Hatchet": {
+    "img": "/images/foraging/mithril_hatchet.png",
+    "class": "equipment",
+    "value": 52000
+  },
+  "Adamantite Hatchet": {
+    "img": "/images/foraging/adamantite_hatchet.png",
+    "class": "equipment",
+    "value": 480000
+  },
+  "Runite Hatchet": {
+    "img": "/images/foraging/rune_hatchet.png",
+    "class": "equipment",
+    "value": 1944000
+  },
+  "Stygian Hatchet": {
+    "img": "/images/foraging/stygian_hatchet.png",
+    "class": "equipment",
+    "value": 3360000
+  },
+  "Sapphire Ring": {
+    "img": "/images/jewellery/sapphire_ring.png",
+    "class": "equipment",
+    "value": 120000
+  },
+  "Sapphire Necklace": {
+    "img": "/images/jewellery/sapphire_necklace.png",
+    "class": "equipment",
+    "value": 120000
+  },
+  "Emerald Ring": {
+    "img": "/images/jewellery/emerald_ring.png",
+    "class": "equipment",
+    "value": 140000
+  },
+  "Emerald Necklace": {
+    "img": "/images/jewellery/emerald_necklace.png",
+    "class": "equipment",
+    "value": 140000
+  },
+  "Ruby Ring": {
+    "img": "/images/jewellery/ruby_ring.png",
+    "class": "equipment",
+    "value": 200000
+  },
+  "Ruby Necklace": {
+    "img": "/images/jewellery/ruby_necklace.png",
+    "class": "equipment",
+    "value": 200000
+  },
+  "Diamond Ring": {
+    "img": "/images/jewellery/diamond_ring.png",
+    "class": "equipment",
+    "value": 300000
+  },
+  "Diamond Necklace": {
+    "img": "/images/jewellery/diamond_necklace.png",
+    "class": "equipment",
+    "value": 300000
+  },
+  "Prismatic Necklace": {
+    "img": "/images/jewellery/prismatic_necklace.png",
+    "class": "equipment",
+    "value": 1000000
+  },
+  "Prismatic Ring": {
+    "img": "/images/jewellery/prismatic_ring.png",
+    "class": "equipment",
+    "value": 1000000
+  },
+  "Black Opal Ring": {
+    "img": "/images/jewellery/black_opal_ring.png",
+    "class": "equipment",
+    "value": 1500000
+  },
+  "Black Opal Necklace": {
+    "img": "/images/jewellery/black_opal_necklace.png",
+    "class": "equipment",
+    "value": 1500000
+  },
+  "Gold Ring": {
+    "img": "/images/jewellery/gold_ring.png",
+    "class": "equipment",
+    "value": 100000
+  },
+  "Gold Necklace": {
+    "img": "/images/jewellery/gold_necklace.png",
+    "class": "equipment",
+    "value": 100000
+  },
+  "Corrupted Ring": {
+    "img": "/images/jewellery/corrupted_ring.png",
+    "class": "equipment",
+    "value": 200000
+  },
+  "Bronze Hoe": {
+    "img": "/images/farming/bronze_hoe.png",
+    "class": "equipment",
+    "value": 800
+  },
+  "Iron Hoe": {
+    "img": "/images/farming/iron_hoe.png",
+    "class": "equipment",
+    "value": 6000
+  },
+  "Mithril Hoe": {
+    "img": "/images/farming/mithril_hoe.png",
+    "class": "equipment",
+    "value": 52000
+  },
+  "Adamantite Hoe": {
+    "img": "/images/farming/adamantite_hoe.png",
+    "class": "equipment",
+    "value": 480000
+  },
+  "Runite Hoe": {
+    "img": "/images/farming/runite_hoe.png",
+    "class": "equipment",
+    "value": 1944000
+  },
+  "Stygian Hoe": {
+    "img": "/images/farming/stygian_hoe.png",
+    "class": "equipment",
+    "value": 3360000
+  },
+  "Fishing Net": {
+    "img": "/images/fishing/net.png",
+    "class": "fish",
+    "value": 100
+  },
+  "Fly Fishing Rod": {
+    "img": "/images/fishing/fishing_rod.png",
+    "class": "fish",
+    "value": 200
+  },
+  "Cage": {
+    "img": "/images/fishing/fishing_cage_2.png",
+    "class": "fish",
+    "value": 500
+  },
+  "Harpoon": {
+    "img": "/images/fishing/harpoon.png",
+    "class": "fish",
+    "value": 1000
+  },
+  "Feather": {
+    "img": "images/fishing/feather.png",
+    "class": "fish",
+    "value": 6
+  },
+  "Fish Oil": {
+    "img": "/images/cooking/fish_oil.png",
+    "class": "cookedFish",
+    "value": 50
+  },
+  "Pyre Log": {
+    "img": "/images/foraging/pyre.png",
+    "class": "log",
+    "value": 60,
+    "heat": 100
+  },
+  "Pyre Oak Log": {
+    "img": "/images/foraging/oak_pyre.png",
+    "class": "log",
+    "value": 200,
+    "heat": 200
+  },
+  "Pyre Willow Log": {
+    "img": "/images/foraging/willow_pyre.png",
+    "class": "log",
+    "value": 400,
+    "heat": 400
+  },
+  "Pyre Maple Log": {
+    "img": "/images/foraging/maple_pyre.png",
+    "class": "log",
+    "value": 800,
+    "heat": 800
+  },
+  "Pyre Yew Log": {
+    "img": "/images/foraging/yew_pyre.png",
+    "class": "log",
+    "value": 2000,
+    "heat": 3000
+  },
+  "Ichor": {
+    "img": "/images/smithing/ichor.png",
+    "class": "bar",
+    "value": 500
+  },
+  "Geode": {
+    "img": "/images/misc/geode.png",
+    "class": "gem",
+    "value": 1000
+  },
+  "Bird's Nest": {
+    "img": "/images/misc/bird_nest.png",
+    "class": "gem",
+    "value": 1000
+  },
+  "Sunken Treasure": {
+    "img": "/images/misc/sunken_treasure.png",
+    "class": "gem",
+    "value": 1000
+  },
+  "Satchel": {
+    "img": "/images/misc/satchel.png",
+    "class": "gem",
+    "value": 1000
+  },
+  "Bronze Scimitar": {
+    "img": "/images/combat/equipment/bronze_scimitar.png",
+    "class": "equipment",
+    "value": 800
+  },
+  "Bronze Battleaxe": {
+    "img": "/images/combat/equipment/bronze_battleaxe.png",
+    "class": "equipment",
+    "value": 1200
+  },
+  "Bronze Daggers": {
+    "img": "/images/combat/equipment/bronze_dagger.png",
+    "class": "equipment",
+    "value": 400
+  },
+  "Bronze Greatsword": {
+    "img": "/images/combat/equipment/bronze_2h_sword.png",
+    "class": "equipment",
+    "value": 1600
+  },
+  "Iron Scimitar": {
+    "img": "/images/combat/equipment/iron_scimitar.png",
+    "class": "equipment",
+    "value": 6000
+  },
+  "Iron Battleaxe": {
+    "img": "/images/combat/equipment/iron_battleaxe.png",
+    "class": "equipment",
+    "value": 8000
+  },
+  "Iron Daggers": {
+    "img": "/images/combat/equipment/iron_dagger.png",
+    "class": "equipment",
+    "value": 4000
+  },
+  "Iron Greatsword": {
+    "img": "/images/combat/equipment/iron_2h_sword.png",
+    "class": "equipment",
+    "value": 10000
+  },
+  "Obsidian Scimitar": {
+    "img": "/images/combat/equipment/black_scimitar.png",
+    "class": "equipment",
+    "value": 92000
+  },
+  "Obsidian Battleaxe": {
+    "img": "/images/combat/equipment/black_battleaxe.png",
+    "class": "equipment",
+    "value": 116000
+  },
+  "Obsidian Daggers": {
+    "img": "/images/combat/equipment/black_dagger.png",
+    "class": "equipment",
+    "value": 68000
+  },
+  "Obsidian Greatsword": {
+    "img": "/images/combat/equipment/black_2h_sword.png",
+    "class": "equipment",
+    "value": 140000
+  },
+  "Mithril Scimitar": {
+    "img": "/images/combat/equipment/mithril_scimitar.png",
+    "class": "equipment",
+    "value": 52000
+  },
+  "Mithril Battleaxe": {
+    "img": "/images/combat/equipment/mithril_battleaxe.png",
+    "class": "equipment",
+    "value": 65000
+  },
+  "Mithril Daggers": {
+    "img": "/images/combat/equipment/mithril_dagger.png",
+    "class": "equipment",
+    "value": 39000
+  },
+  "Mithril Greatsword": {
+    "img": "/images/combat/equipment/mithril_2h_sword.png",
+    "class": "equipment",
+    "value": 78000
+  },
+  "Adamantite Scimitar": {
+    "img": "/images/combat/equipment/adamantite_scimitar.png",
+    "class": "equipment",
+    "value": 480000
+  },
+  "Adamantite Battleaxe": {
+    "img": "/images/combat/equipment/adamantite_battleaxe.png",
+    "class": "equipment",
+    "value": 576000
+  },
+  "Adamantite Daggers": {
+    "img": "/images/combat/equipment/adamantite_dagger.png",
+    "class": "equipment",
+    "value": 384000
+  },
+  "Adamantite Greatsword": {
+    "img": "/images/combat/equipment/adamantite_2h_sword.png",
+    "class": "equipment",
+    "value": 672000
+  },
+  "Runite Scimitar": {
+    "img": "/images/combat/equipment/rune_scimitar.png",
+    "class": "equipment",
+    "value": 1944000
+  },
+  "Runite Battleaxe": {
+    "img": "/images/combat/equipment/rune_battleaxe.png",
+    "class": "equipment",
+    "value": 2268000
+  },
+  "Runite Daggers": {
+    "img": "/images/combat/equipment/rune_dagger.png",
+    "class": "equipment",
+    "value": 1620000
+  },
+  "Runite Greatsword": {
+    "img": "/images/combat/equipment/rune_2h_sword.png",
+    "class": "equipment",
+    "value": 2592000
+  },
+  "Stygian Scimitar": {
+    "img": "/images/combat/equipment/stygian_scimitar.png",
+    "class": "equipment",
+    "value": 3360000
+  },
+  "Stygian Battleaxe": {
+    "img": "/images/combat/equipment/stygian_battleaxe.png",
+    "class": "equipment",
+    "value": 3840000
+  },
+  "Stygian Daggers": {
+    "img": "/images/combat/equipment/stygian_dagger.png",
+    "class": "equipment",
+    "value": 2880000
+  },
+  "Stygian Greatsword": {
+    "img": "/images/combat/equipment/stygian_2h_sword.png",
+    "class": "equipment",
+    "value": 4320000
+  },
+  "Bronze Helm": {
+    "img": "/images/combat/equipment/bronze_med_helm.png",
+    "class": "equipment",
+    "value": 400
+  },
+  "Iron Helm": {
+    "img": "/images/combat/equipment/iron_med_helm.png",
+    "class": "equipment",
+    "value": 4000
+  },
+  "Obsidian Helm": {
+    "img": "/images/combat/equipment/black_med_helm.png",
+    "class": "equipment",
+    "value": 68000
+  },
+  "Mithril Helm": {
+    "img": "/images/combat/equipment/mithril_med_helm.png",
+    "class": "equipment",
+    "value": 39000
+  },
+  "Adamantite Helm": {
+    "img": "/images/combat/equipment/adamantite_med_helm.png",
+    "class": "equipment",
+    "value": 384000
+  },
+  "Runite Helm": {
+    "img": "/images/combat/equipment/rune_med_helm.png",
+    "class": "equipment",
+    "value": 1620000
+  },
+  "Stygian Helm": {
+    "img": "/images/combat/equipment/stygian_med_helm.png",
+    "class": "equipment",
+    "value": 2880000
+  },
+  "Bronze Full Helm": {
+    "img": "/images/combat/equipment/bronze_full_helm.png",
+    "class": "equipment",
+    "value": 800
+  },
+  "Iron Full Helm": {
+    "img": "/images/combat/equipment/iron_full_helm.png",
+    "class": "equipment",
+    "value": 4800
+  },
+  "Obsidian Full Helm": {
+    "img": "/images/combat/equipment/black_full_helm.png",
+    "class": "equipment",
+    "value": 89600
+  },
+  "Mithril Full Helm": {
+    "img": "/images/combat/equipment/mithril_full_helm.png",
+    "class": "equipment",
+    "value": 52000
+  },
+  "Adamantite Full Helm": {
+    "img": "/images/combat/equipment/adamantite_full_helm.png",
+    "class": "equipment",
+    "value": 480000
+  },
+  "Runite Full Helm": {
+    "img": "/images/combat/equipment/rune_full_helm.png",
+    "class": "equipment",
+    "value": 1944000
+  },
+  "Stygian Full Helm": {
+    "img": "/images/combat/equipment/stygian_full_helm.png",
+    "class": "equipment",
+    "value": 3360000
+  },
+  "Bronze Shield": {
+    "img": "/images/combat/equipment/bronze_shield.png",
+    "class": "equipment",
+    "value": 1200
+  },
+  "Iron Shield": {
+    "img": "/images/combat/equipment/iron_shield.png",
+    "class": "equipment",
+    "value": 8000
+  },
+  "Obsidian Shield": {
+    "img": "/images/combat/equipment/black_shield.png",
+    "class": "equipment",
+    "value": 116000
+  },
+  "Mithril Shield": {
+    "img": "/images/combat/equipment/mithril_shield.png",
+    "class": "equipment",
+    "value": 65000
+  },
+  "Adamantite Shield": {
+    "img": "/images/combat/equipment/adamantite_shield.png",
+    "class": "equipment",
+    "value": 576000
+  },
+  "Runite Shield": {
+    "img": "/images/combat/equipment/rune_shield.png",
+    "class": "equipment",
+    "value": 2268000
+  },
+  "Stygian Shield": {
+    "img": "/images/combat/equipment/stygian_shield.png",
+    "class": "equipment",
+    "value": 3840000
+  },
+  "Bronze Breastplate": {
+    "img": "/images/combat/equipment/bronze_platebody.png",
+    "class": "equipment",
+    "value": 2000
+  },
+  "Bronze Chainmail": {
+    "img": "/images/combat/equipment/bronze_chainbody.png",
+    "class": "equipment",
+    "value": 1200
+  },
+  "Iron Breastplate": {
+    "img": "/images/combat/equipment/iron_platebody.png",
+    "class": "equipment",
+    "value": 12000
+  },
+  "Iron Chainmail": {
+    "img": "/images/combat/equipment/iron_chainbody.png",
+    "class": "equipment",
+    "value": 8000
+  },
+  "Obsidian Breastplate": {
+    "img": "/images/combat/equipment/black_platebody.png",
+    "class": "equipment",
+    "value": 164000
+  },
+  "Obsidian Chainmail": {
+    "img": "/images/combat/equipment/black_chainbody.png",
+    "class": "equipment",
+    "value": 116000
+  },
+  "Mithril Breastplate": {
+    "img": "/images/combat/equipment/mithril_platebody.png",
+    "class": "equipment",
+    "value": 91000
+  },
+  "Mithril Chainmail": {
+    "img": "/images/combat/equipment/mithril_chainbody.png",
+    "class": "equipment",
+    "value": 65000
+  },
+  "Adamantite Breastplate": {
+    "img": "/images/combat/equipment/adamantite_platebody.png",
+    "class": "equipment",
+    "value": 768000
+  },
+  "Adamantite Chainmail": {
+    "img": "/images/combat/equipment/adamantite_chainbody.png",
+    "class": "equipment",
+    "value": 576000
+  },
+  "Runite Breastplate": {
+    "img": "/images/combat/equipment/rune_platebody.png",
+    "class": "equipment",
+    "value": 2916000
+  },
+  "Runite Chainmail": {
+    "img": "/images/combat/equipment/rune_chainbody.png",
+    "class": "equipment",
+    "value": 2268000
+  },
+  "Stygian Breastplate": {
+    "img": "/images/combat/equipment/stygian_platebody.png",
+    "class": "equipment",
+    "value": 4800000
+  },
+  "Stygian Chainmail": {
+    "img": "/images/combat/equipment/stygian_chainbody.png",
+    "class": "equipment",
+    "value": 3840000
+  },
+  "Bronze Plate Leggings": {
+    "img": "/images/combat/equipment/bronze_platelegs.png",
+    "class": "equipment",
+    "value": 800
+  },
+  "Iron Plate Leggings": {
+    "img": "/images/combat/equipment/iron_platelegs.png",
+    "class": "equipment",
+    "value": 6000
+  },
+  "Obsidian Plate Leggings": {
+    "img": "/images/combat/equipment/black_platelegs.png",
+    "class": "equipment",
+    "value": 92000
+  },
+  "Mithril Plate Leggings": {
+    "img": "/images/combat/equipment/mithril_platelegs.png",
+    "class": "equipment",
+    "value": 52000
+  },
+  "Adamantite Plate Leggings": {
+    "img": "/images/combat/equipment/adamantite_platelegs.png",
+    "class": "equipment",
+    "value": 480000
+  },
+  "Runite Plate Leggings": {
+    "img": "/images/combat/equipment/rune_platelegs.png",
+    "class": "equipment",
+    "value": 1944000
+  },
+  "Stygian Plate Leggings": {
+    "img": "/images/combat/equipment/stygian_platelegs.png",
+    "class": "equipment",
+    "value": 3360000
+  },
+  "Bronze Boots": {
+    "img": "/images/combat/equipment/bronze_boots.png",
+    "class": "equipment",
+    "value": 1000
+  },
+  "Iron Boots": {
+    "img": "/images/combat/equipment/iron_boots.png",
+    "class": "equipment",
+    "value": 8000
+  },
+  "Obsidian Boots": {
+    "img": "/images/combat/equipment/black_boots.png",
+    "class": "equipment",
+    "value": 68000
+  },
+  "Mithril Boots": {
+    "img": "/images/combat/equipment/mithril_boots.png",
+    "class": "equipment",
+    "value": 60000
+  },
+  "Adamantite Boots": {
+    "img": "/images/combat/equipment/adamantite_boots.png",
+    "class": "equipment",
+    "value": 480000
+  },
+  "Runite Boots": {
+    "img": "/images/combat/equipment/rune_boots.png",
+    "class": "equipment",
+    "value": 1800000
+  },
+  "Stygian Boots": {
+    "img": "/images/combat/equipment/stygian_boots.png",
+    "class": "equipment",
+    "value": 2880000
+  },
+  "Bronze Gloves": {
+    "img": "/images/combat/equipment/bronze_gloves.png",
+    "class": "equipment",
+    "value": 20
+  },
+  "Iron Gloves": {
+    "img": "/images/combat/equipment/iron_gloves.png",
+    "class": "equipment",
+    "value": 600
+  },
+  "Obsidian Gloves": {
+    "img": "/images/combat/equipment/black_gloves.png",
+    "class": "equipment",
+    "value": 8000
+  },
+  "Mithril Gloves": {
+    "img": "/images/combat/equipment/mithril_gloves.png",
+    "class": "equipment",
+    "value": 50000
+  },
+  "Adamantite Gloves": {
+    "img": "/images/combat/equipment/adamantite_gloves.png",
+    "class": "equipment",
+    "value": 300000
+  },
+  "Runite Gloves": {
+    "img": "/images/combat/equipment/rune_gloves.png",
+    "class": "equipment",
+    "value": 1500000
+  },
+  "Stygian Gloves": {
+    "img": "/images/combat/equipment/stygian_gloves.png",
+    "class": "equipment",
+    "value": 5000000
+  },
+  "Santa Hat": {
+    "img": "/images/combat/equipment/santa_hat.png",
+    "class": "equipment"
+  },
+  "Snowman Head": {
+    "img": "/images/combat/equipment/snowman_head.png",
+    "class": "equipment"
+  },
+  "Tophat": {
+    "img": "/images/combat/equipment/tophat.png",
+    "class": "equipment"
+  },
+  "Lesser Ladle": {
+    "img": "/images/combat/equipment/lesser_ladle.png",
+    "class": "equipment",
+    "value": 20000
+  },
+  "Ladle": {
+    "img": "/images/combat/equipment/ladle.png",
+    "class": "equipment",
+    "value": 25000
+  },
+  "Greater Ladle": {
+    "img": "/images/combat/equipment/greater_ladle.png",
+    "class": "equipment",
+    "value": 30000
+  },
+  "Moss Maul": {
+    "img": "/images/combat/equipment/moss_maul.png",
+    "class": "equipment",
+    "value": 6360000
+  },
+  "Modified Diving Gloves": {
+    "img": "/images/combat/equipment/modified_diving_gloves.png",
+    "class": "equipment",
+    "value": 100
+  },
+  "King's Crown": {
+    "img": "/images/combat/equipment/kings_crown.png",
+    "class": "equipment",
+    "value": 6360000
+  },
+  "Fire Orb": {
+    "img": "/images/combat/equipment/fire_orb.png",
+    "class": "equipment",
+    "value": 6360000
+  },
+  "Kalanahmatti": {
+    "img": "/images/combat/equipment/kalanahmatti.png",
+    "class": "bar",
+    "value": 3360000
+  },
+  "Shard of Kalanahmatti": {
+    "img": "/images/combat/equipment/shard_of_kalanahmatti.png",
+    "class": "equipment",
+    "value": 6360000
+  },
+  "Zero Edge": {
+    "img": "/images/combat/equipment/zero_edge.png",
+    "class": "equipment",
+    "value": 3360000
+  },
+  "Crest of Chaos": {
+    "img": "/images/combat/equipment/crest_of_chaos.png",
+    "class": "equipment",
+    "value": 68000
+  },
+  "Forgotten Soul": {
+    "img": "/images/combat/equipment/forgotten-soul-two-handed.png",
+    "class": "equipment",
+    "value": 3360000
+  },
+  "Gargoyle Chainmail": {
+    "img": "/images/combat/equipment/gargoyle_chain.png",
+    "class": "equipment",
+    "value": 232000
+  },
+  "Gargoyle Legs": {
+    "img": "/images/combat/equipment/gargoyle_pants.png",
+    "class": "equipment",
+    "value": 184000
+  },
+  "Gargoyle Boots": {
+    "img": "/images/combat/equipment/gargoyle_boots.png",
+    "class": "equipment",
+    "value": 136000
+  },
+  "Gargoyle Helm": {
+    "img": "/images/combat/equipment/gargoyle_helm.png",
+    "class": "equipment",
+    "value": 136000
+  },
+  "Gargoyle Shield": {
+    "img": "/images/combat/equipment/gargoyle_shield.png",
+    "class": "equipment",
+    "value": 232000
+  },
+  "Gargoyle Falchion": {
+    "img": "/images/combat/equipment/gargoyle_falchion.png",
+    "class": "equipment",
+    "value": 184000
+  },
+  "Gargoyle Daggers": {
+    "img": "/images/combat/equipment/dagger_gargoyle.png",
+    "class": "equipment",
+    "value": 136000
+  },
+  "Gargoyle Glaive": {
+    "img": "/images/combat/equipment/gargoyle_glaive.png",
+    "class": "equipment",
+    "value": 280000
+  },
+  "Infernal Lance": {
+    "img": "/images/combat/equipment/infernal_lance.png",
+    "class": "equipment",
+    "value": 420000
+  },
+  "Black Knight Great Helm": {
+    "img": "/images/combat/equipment/black_black_knight_great_helm.png",
+    "class": "equipment"
+  },
+  "Chorus of Souls": {
+    "img": "/images/combat/equipment/chorus_of_souls.png",
+    "class": "equipment",
+    "value": 2000000
+  },
+  "Decayed Cloak": {
+    "img": "/images/combat/equipment/decayed_cloak.png",
+    "class": "equipment"
+  },
+  "Mysterious Man": {
+    "img": "/images/combat/equipment/hatcontest_mysterious_man.png",
+    "class": "equipment"
+  },
+  "Corny Joke": {
+    "img": "/images/combat/equipment/hatcontest_cornyjoke.png",
+    "class": "equipment"
+  },
+  "Death Metal Wig": {
+    "img": "/images/combat/equipment/hatcontest_death_metal_wig.png",
+    "class": "equipment"
+  },
+  "Shrimp Carapace": {
+    "img": "/images/combat/equipment/shrimp_armor.png",
+    "class": "equipment",
+    "value": 10000
+  },
+  "Shrimp Greaves": {
+    "img": "/images/combat/equipment/shrimp_pants.png",
+    "class": "equipment",
+    "value": 10000
+  },
+  "Shrimp Helm": {
+    "img": "/images/combat/equipment/shrimp_helm.png",
+    "class": "equipment",
+    "value": 10000
+  },
+  "Shrimp Shell": {
+    "img": "/images/combat/equipment/shrimp_shield.png",
+    "class": "equipment",
+    "value": 10000
+  },
+  "Naga's Bracelet": {
+    "img": "/images/combat/equipment/nagas_bracelet.png",
+    "class": "equipment",
+    "value": 75000
+  },
+  "Scroll": {
+    "img": "/images/enchanting/scroll.png",
+    "class": "enchanted-scroll",
+    "value": 900
+  },
+  "Scroll of Embers": {
+    "img": "/images/enchanting/scroll_of_embers.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of the Prospector": {
+    "img": "/images/enchanting/scroll_of_the_prospector.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of the Scholar": {
+    "img": "/images/enchanting/scroll_of_the_scholar.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Gathering": {
+    "img": "/images/enchanting/scroll_of_gathering.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Superheating": {
+    "img": "/images/enchanting/scroll_of_superheating.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Pyromancy": {
+    "img": "/images/enchanting/scroll_of_pyromancy.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Wealth": {
+    "img": "/images/enchanting/scroll_of_wealth.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Haste": {
+    "img": "/images/enchanting/scroll_of_haste.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Naturalist": {
+    "img": "/images/enchanting/scroll_of_naturalist_v2.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Acrobatics": {
+    "img": "/images/enchanting/scroll_of_naturalist_v2.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Critical Strike": {
+    "img": "/images/enchanting/scroll_of_critical_strike.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Poisoning": {
+    "img": "/images/enchanting/scroll_of_naturalist_v2.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Accuracy": {
+    "img": "/images/enchanting/scroll_of_critical_strike.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Deflect": {
+    "img": "/images/enchanting/scroll_of_naturalist_v2.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Force": {
+    "img": "/images/enchanting/scroll_of_force.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Healing": {
+    "img": "/images/enchanting/scroll_of_healing.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Weakening": {
+    "img": "/images/enchanting/scroll_of_weakening.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Reinforcement": {
+    "img": "/images/enchanting/scroll_of_reinforcement.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Protection": {
+    "img": "/images/enchanting/scroll_of_reinforcement.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Counterattack": {
+    "img": "/images/enchanting/scroll_of_naturalist_v2.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Recklessness": {
+    "img": "/images/enchanting/scroll_of_recklessness.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Efficiency": {
+    "img": "/images/enchanting/scroll_of_efficiency.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Fishing": {
+    "img": "/images/enchanting/scroll_of_fishing.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Cooking": {
+    "img": "/images/enchanting/scroll_of_cooking.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Crafting": {
+    "img": "/images/enchanting/scroll_of_efficiency.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Refining": {
+    "img": "/images/enchanting/scroll_of_refining.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Runecrafting": {
+    "img": "/images/enchanting/scroll_of_runecrafting.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Chances": {
+    "img": "/images/enchanting/scroll_of_chances.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of the Shrimp Lord": {
+    "img": "/images/enchanting/scroll_of_the_shrimp_lord.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Enlightenment": {
+    "img": "/images/enchanting/scroll_of_enlightment.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Prolonging": {
+    "img": "/images/enchanting/scroll_of_boosting.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of the Treasure Hunter": {
+    "img": "/images/enchanting/scroll_of_treasure_hunter.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Inferno": {
+    "img": "/images/enchanting/scroll_of_inferno.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Destructive Testing": {
+    "img": "/images/enchanting/scroll_of_destructive_testing.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Nature": {
+    "img": "/images/enchanting/scroll_of_the_nature.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Root Digging": {
+    "img": "/images/enchanting/scroll_of_root_digging.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Patience": {
+    "img": "/images/enchanting/scroll_of_patience.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Overhealing": {
+    "img": "/images/enchanting/scroll_of_overhealing.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Farming": {
+    "img": "/images/enchanting/scroll_farming.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of the Gold Digger": {
+    "img": "/images/enchanting/scroll_golddigger.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Fertilizing": {
+    "img": "/images/enchanting/scroll_fertilizing.png",
+    "class": "enchanted-scroll"
+  },
+  "Scroll of Cultivation": {
+    "img": "/images/enchanting/scroll_cultivation.png",
+    "class": "enchanted-scroll"
+  },
+  "Raw Chicken": {
+    "img": "/images/cooking/raw_chicken.png",
+    "class": "cooking-ingredient",
+    "value": 75
+  },
+  "Raw Beef": {
+    "img": "/images/cooking/raw_beef.png",
+    "class": "cooking-ingredient",
+    "value": 75
+  },
+  "Spider Legs": {
+    "img": "/images/cooking/spider_legs.png",
+    "class": "cooking-ingredient",
+    "value": 100
+  },
+  "Goblin Brain": {
+    "img": "/images/cooking/goblin_brain.png",
+    "class": "cooking-ingredient",
+    "value": 25
+  },
+  "Pepper": {
+    "img": "/images/cooking/pepper.png",
+    "class": "cooking-ingredient",
+    "value": 10
+  },
+  "Salt": {
+    "img": "/images/cooking/salt.png",
+    "class": "cooking-ingredient",
+    "value": 10
+  },
+  "Ashes": {
+    "img": "/images/cooking/ashes.png",
+    "class": "cooking-ingredient",
+    "value": 5
+  },
+  "Sugar": {
+    "img": "/images/cooking/sugar.png",
+    "class": "cooking-ingredient",
+    "value": 10
+  },
+  "Honey": {
+    "img": "/images/cooking/honey.png",
+    "class": "cooking-ingredient",
+    "value": 20
+  },
+  "Milk": {
+    "img": "/images/cooking/milk.png",
+    "class": "cooking-ingredient",
+    "value": 15
+  },
+  "Butter": {
+    "img": "/images/cooking/butter.png",
+    "class": "cooking-ingredient",
+    "value": 10
+  },
+  "Egg": {
+    "img": "/images/cooking/egg.png",
+    "class": "cooking-ingredient",
+    "value": 15
+  },
+  "Mushroom": {
+    "img": "/images/cooking/mushroom.png",
+    "class": "cooking-ingredient",
+    "value": 10
+  },
+  "Carrot": {
+    "img": "/images/cooking/carrot.png",
+    "class": "cooking-ingredient",
+    "value": 15
+  },
+  "Chili Pepper": {
+    "img": "/images/cooking/chili_pepper.png",
+    "class": "cooking-ingredient",
+    "value": 10
+  },
+  "Potato": {
+    "img": "/images/cooking/potato.png",
+    "class": "cooking-ingredient",
+    "value": 10
+  },
+  "Pumpkin": {
+    "img": "/images/cooking/pumpkin.png",
+    "class": "cooking-ingredient",
+    "value": 10
+  },
+  "Tomato": {
+    "img": "/images/cooking/tomato.png",
+    "class": "cooking-ingredient",
+    "value": 10
+  },
+  "Apple": {
+    "img": "/images/cooking/apple.png",
+    "class": "cooking-ingredient",
+    "value": 20
+  },
+  "Wildberry": {
+    "img": "/images/cooking/wildberry.png",
+    "class": "cooking-ingredient",
+    "value": 10
+  },
+  "Banana": {
+    "img": "/images/cooking/banana.png",
+    "class": "cooking-ingredient",
+    "value": 20
+  },
+  "Wheat": {
+    "img": "/images/cooking/wheat.png",
+    "class": "cooking-ingredient",
+    "value": 10
+  },
+  "Rice": {
+    "img": "/images/cooking/rice.png",
+    "class": "cooking-ingredient",
+    "value": 10
+  },
+  "Sageberry": {
+    "img": "/images/farming/sage_berry.png",
+    "class": "cooking-ingredient",
+    "value": 150
+  },
+  "Questionable Food": {
+    "img": "/images/cooking/questionable_food.png",
+    "class": "cooking-ingredient",
+    "value": 5
+  },
+  "Monster Surprise": {
+    "img": "/images/cooking/monster_surprise.png",
+    "class": "cooking-ingredient",
+    "value": 5
+  },
+  "Seared Steak": {
+    "img": "/images/cooking/seared_steak.png",
+    "class": "cooking-ingredient",
+    "value": 50
+  },
+  "Seared Fish": {
+    "img": "/images/cooking/seared_fish.png",
+    "class": "cooking-ingredient",
+    "value": 30
+  },
+  "Seared Poultry": {
+    "img": "/images/cooking/seared_bird.png",
+    "class": "cooking-ingredient",
+    "value": 50
+  },
+  "Birdie Pasta": {
+    "img": "/images/cooking/birdie_pasta.png",
+    "class": "cooking-ingredient",
+    "value": 75
+  },
+  "Spaghetti & Meat": {
+    "img": "/images/cooking/spaghetti_meat.png",
+    "class": "cooking-ingredient",
+    "value": 75
+  },
+  "Sushi": {
+    "img": "/images/cooking/sushi.png",
+    "class": "cooking-ingredient",
+    "value": 100
+  },
+  "Birdie Pie": {
+    "img": "/images/cooking/birdie_pie.png",
+    "class": "cooking-ingredient",
+    "value": 125
+  },
+  "Cottage Pie": {
+    "img": "/images/cooking/cottage_pie.png",
+    "class": "cooking-ingredient",
+    "value": 125
+  },
+  "Fisherman's Pie": {
+    "img": "/images/cooking/fisherman_pie.png",
+    "class": "cooking-ingredient",
+    "value": 125
+  },
+  "Fruit Pie": {
+    "img": "/images/cooking/fruit_pie.png",
+    "class": "cooking-ingredient",
+    "value": 125
+  },
+  "Demon Cake": {
+    "img": "/images/cooking/demon_cake.png",
+    "class": "cooking-ingredient",
+    "value": 175
+  },
+  "Cake": {
+    "img": "/images/cooking/cake.png",
+    "class": "cooking-ingredient",
+    "value": 100
+  },
+  "Fruit Cake": {
+    "img": "/images/cooking/fruit_cake.png",
+    "class": "cooking-ingredient",
+    "value": 125
+  },
+  "Grain Cake": {
+    "img": "/images/cooking/grain_cake.png",
+    "class": "cooking-ingredient",
+    "value": 125
+  },
+  "Omelette": {
+    "img": "/images/cooking/omelette.png",
+    "class": "cooking-ingredient",
+    "value": 75
+  },
+  "Monster Omelette": {
+    "img": "/images/cooking/monster_omelette.png",
+    "class": "cooking-ingredient",
+    "value": 150
+  },
+  "Meaty Omelette": {
+    "img": "/images/cooking/meat_omelette.png",
+    "class": "cooking-ingredient",
+    "value": 125
+  },
+  "Veggie Crepe": {
+    "img": "/images/cooking/veggie_crepe.png",
+    "class": "cooking-ingredient",
+    "value": 125
+  },
+  "Fruity Crepe": {
+    "img": "/images/cooking/fruit_crepe.png",
+    "class": "cooking-ingredient",
+    "value": 150
+  },
+  "Eggnog": {
+    "img": "/images/cooking/egg_nog.png",
+    "class": "cooking-ingredient",
+    "value": 50
+  },
+  "Meat Roast": {
+    "img": "/images/cooking/meat_roast.png",
+    "class": "cooking-ingredient",
+    "value": 150
+  },
+  "Fried Fruit": {
+    "img": "/images/cooking/fried_fruit.png",
+    "class": "cooking-ingredient",
+    "value": 100
+  },
+  "Grilled Veggies": {
+    "img": "/images/cooking/grilled_veggies.png",
+    "class": "cooking-ingredient",
+    "value": 100
+  },
+  "Kebabs": {
+    "img": "/images/cooking/kababs.png",
+    "class": "cooking-ingredient",
+    "value": 150
+  },
+  "Candied Fruit": {
+    "img": "/images/cooking/candied_fruit.png",
+    "class": "cooking-ingredient",
+    "value": 125
+  },
+  "Milkshake": {
+    "img": "/images/cooking/milkshake.png",
+    "class": "cooking-ingredient",
+    "value": 75
+  },
+  "Vegetable Stew": {
+    "img": "/images/cooking/veggie_stew.png",
+    "class": "cooking-ingredient",
+    "value": 150
+  },
+  "Meaty Stew": {
+    "img": "/images/cooking/meaty_stew.png",
+    "class": "cooking-ingredient",
+    "value": 125
+  },
+  "Monster Stew": {
+    "img": "/images/cooking/monster_stew.png",
+    "class": "cooking-ingredient",
+    "value": 200
+  },
+  "Jerky": {
+    "img": "/images/cooking/jerky.png",
+    "class": "cooking-ingredient",
+    "value": 75
+  },
+  "Pudding": {
+    "img": "/images/cooking/pudding.png",
+    "class": "cooking-ingredient",
+    "value": 100
+  },
+  "Ice Cream": {
+    "img": "/images/cooking/icecream.png",
+    "class": "cooking-ingredient",
+    "value": 100
+  },
+  "Monster Curry": {
+    "img": "/images/cooking/monster_curry.png",
+    "class": "cooking-ingredient",
+    "value": 150
+  },
+  "Birdie Curry": {
+    "img": "/images/cooking/birdie_curry.png",
+    "class": "cooking-ingredient",
+    "value": 175
+  },
+  "Beast Curry": {
+    "img": "/images/cooking/beast_curry.png",
+    "class": "cooking-ingredient",
+    "value": 175
+  },
+  "Seafood Curry": {
+    "img": "/images/cooking/seafood_curry.png",
+    "class": "cooking-ingredient",
+    "value": 175
+  },
+  "Monster Gelato": {
+    "img": "/images/cooking/monster_gelato.png",
+    "class": "cooking-ingredient",
+    "value": 225
+  },
+  "Shrimp Bauble": {
+    "img": "/images/misc/shrimp_bauble.png",
+    "class": "key",
+    "value": 10
+  },
+  "Shrimp": {
+    "img": "/images/misc/schfftph_fzzglgl.png",
+    "class": "fish"
+  },
+  "Shrimp Ascendant": {
+    "img": "/images/misc/schfftph_fzzglgl_kakfzz.png",
+    "class": "fish"
+  },
+  "Gold Medal": {
+    "img": "/images/ui/highscore_gold.png",
+    "class": "gold-medal"
+  },
+  "Silver Medal": {
+    "img": "/images/ui/highscore_silver.png",
+    "class": "silver-medal"
+  },
+  "Bronze Medal": {
+    "img": "/images/ui/highscore_bronze.png",
+    "class": "bronze-medal"
+  },
+  "Snow": {
+    "img": "/images/christmas/snow.png",
+    "class": "christmas-drop"
+  },
+  "Snowball": {
+    "img": "/images/christmas/snowball.png",
+    "class": "christmas-drop"
+  },
+  "Wrapping Paper": {
+    "img": "/images/christmas/wrapping_paper.png",
+    "class": "christmas-drop"
+  },
+  "Present": {
+    "img": "/images/christmas/present.png",
+    "class": "christmas-present"
+  },
+  "Cookie Dough": {
+    "img": "/images/christmas/cookie_dough.png",
+    "class": "christmas-food"
+  },
+  "Cookie": {
+    "img": "/images/christmas/cookie.png",
+    "class": "christmas-food"
+  },
+  "Gummy Fish": {
+    "img": "/images/christmas/gummy_fish.png",
+    "class": "christmas-drop"
+  },
+  "Gummy Shark Fin": {
+    "img": "/images/christmas/gummy_shark_fin.png",
+    "class": "christmas-drop"
+  },
+  "Krampus' Horn": {
+    "img": "/images/christmas/krampus_horn.png",
+    "class": "christmas-drop"
+  },
+  "Candy Buttons": {
+    "img": "/images/christmas/candy_buttons.png",
+    "class": "christmas-drop"
+  },
+  "Scarf": {
+    "img": "/images/christmas/scarf.png",
+    "class": "christmas-drop"
+  },
+  "Evergreen Log": {
+    "img": "/images/christmas/evergreen_log.png",
+    "class": "christmas-drop"
+  },
+  "Corrupted Evergreen Log": {
+    "img": "/images/christmas/corrupted_evergreen_log.png",
+    "class": "christmas-drop"
+  },
+  "Magic Ice": {
+    "img": "/images/christmas/magic_ice.png",
+    "class": "christmas-drop"
+  },
+  "Inferior Bearded Wanderer": {
+    "img": "/images/christmas/christmas_helmet_worn.png",
+    "class": "christmas-tier1"
+  },
+  "Inferior Reindeer Hunters' Armor": {
+    "img": "/images/christmas/christmas_chestplate_worn.png",
+    "class": "christmas-tier1"
+  },
+  "Inferior Reindeer Hunters' Leggings": {
+    "img": "/images/christmas/christmas_leggings_worn.png",
+    "class": "christmas-tier1"
+  },
+  "Inferior Christmas Lights": {
+    "img": "/images/christmas/christmas_weapon_worn.png",
+    "class": "christmas-tier1"
+  },
+  "SuperSled 1337": {
+    "img": "/images/christmas/christmas_shield_worn.png",
+    "class": "christmas-tier1"
+  },
+  "Bearded Wanderer": {
+    "img": "/images/christmas/christmas_helmet_worn.png",
+    "class": "christmas-tier2"
+  },
+  "Reindeer Hunters' Armor": {
+    "img": "/images/christmas/christmas_chestplate_worn.png",
+    "class": "christmas-tier2"
+  },
+  "Reindeer Hunters' Leggings": {
+    "img": "/images/christmas/christmas_leggings_worn.png",
+    "class": "christmas-tier2"
+  },
+  "Christmas Lights": {
+    "img": "/images/christmas/christmas_weapon_worn.png",
+    "class": "christmas-tier2"
+  },
+  "SuperSled 9000": {
+    "img": "/images/christmas/christmas_shield_worn.png",
+    "class": "christmas-tier2"
+  },
+  "Superior Bearded Wanderer": {
+    "img": "/images/christmas/christmas_helmet_worn.png",
+    "class": "christmas-tier3"
+  },
+  "Superior Reindeer Hunters' Armor": {
+    "img": "/images/christmas/christmas_chestplate_worn.png",
+    "class": "christmas-tier3"
+  },
+  "Superior Reindeer Hunters' Leggings": {
+    "img": "/images/christmas/christmas_leggings_worn.png",
+    "class": "christmas-tier3"
+  },
+  "Superior Christmas Lights": {
+    "img": "/images/christmas/christmas_weapon_worn.png",
+    "class": "christmas-tier3"
+  },
+  "SuperSled 9001": {
+    "img": "/images/christmas/christmas_shield_worn.png",
+    "class": "christmas-tier3"
+  },
+  "Magical Snowball": {
+    "img": "/images/christmas/magical_snowball.png",
+    "class": "equipment"
+  },
+  "Candy Cane Daggers": {
+    "img": "/images/christmas/candy_cane_dagger.png",
+    "class": "equipment"
+  },
+  "Festive Shroud": {
+    "img": "/images/christmas/festive_shroud.png",
+    "class": "equipment"
+  },
+  "Snowglobe": {
+    "img": "/images/christmas/snowglobe.png",
+    "class": "christmas-globe"
+  }
+}
