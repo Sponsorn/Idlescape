@@ -1,0 +1,40 @@
+.itemTable {
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-size: 100%;
+}
+
+.itemTable td {
+    border: 1px solid #9b9b9b;
+    overflow: hidden;
+    padding: 5px 5px;
+    word-break: normal;
+}
+
+.itemTable th {
+    border: 1px solid #9b9b9b;
+    font-weight: normal;
+    overflow: hidden;
+    padding: 8px 5px;
+    word-break: normal;
+    vertical-align: middle;
+}
+
+.itemTable img {
+    width: 60px;
+    height: auto;
+}
+
+.itemTable .it-header-row {
+    background-color: #efefef;
+    border: 1px solid #9b9b9b;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.itemTable .it-bottom-row {
+    background-color: #efefef;
+    border: 1px solid #9b9b9b;
+    text-align: center;
+    vertical-align: middle;
+}
